@@ -1,1 +1,14 @@
-# SNHU-CS-255-Academic-Repository
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+Driver's Pass was a small client, with a staff of roughly 4, and we were making a drivers ed training model for them. They wanted to modernize the entire process, including training videos, and online scheduling for enhanced convenience. They wanted a streamlined modular design that would allow their internal teams to easily add on features and remove them, such as old/new training videos.
+
+What did you do particularly well?
+I think I did a great job breaking things down to none technical users, my job has this happening a lot, and my previous job wasn't technical but it was medical. I have a lot of experience framing things in different ways to try and make it easier to understand, I think my experience shown through on this project here making it easier for someone with no experience to grasp.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would certinely spend more time on some of the UML diagrams, with so many different models we implement, usecase, sequence, activity, and then code specific ones talking about objects and class features my understanding has weigned as I find myself getting more confused on which is which. I would improve my understanding of each, and possibly do some none driver's pass ones to practice getting more familiar with each.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+Since this was a small team there was a lot of interprutation in emphasizing a strong UI and front end design. This is alwasys important to users, but with a single IT person on staff I think even more so. The owner emphasized an increadibly strong desire to be involved in all aspects of the buisness, and I think a strong UI exampifies his ability to participate. Also making decisions about security for his companys own safety is important. The CEO/ founder wanted a lot of privledged access, and features that frankly would break modern best practice in terms of cyber security.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+When it comes to designing software I like the idea of everything being as small as possible. When you make something, each piece should serve the function of itself. It should not be pivotal for everything else, that way fail points are easy. In mechanial tools this isn't realisictic as there's structural considerations, but in digital desing we can have objects that just serve one function. This entire design strategy comes from encapsalation in OOP best practices, and is something I try to think about constantly in all aspects of design. This comes through when interpruting the companies cyber security, the idea of least privledge is so important, as it reduces the attack area of unethical actors against a system.
